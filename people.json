@@ -1,0 +1,3217 @@
+[{
+  "_id": {
+    "$oid": "61d4da2bab6f6f1e47dbc8b4"
+  },
+  "Name": [
+    "Name"
+  ],
+  "Age": "",
+  "Source of Wealth": "",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "",
+  "Citizenship": "",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da2cab6f6f1e47dbc8b5"
+  },
+  "Name": [
+    "Jeff Bezos "
+  ],
+  "Age": "57",
+  "Source of Wealth": "Amazon, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "1",
+  "Residence": "Seattle, Washington",
+  "Citizenship": "United States",
+  "Marital Status": "In Relationship",
+  "Children": "4",
+  "Education": "Bachelor of Arts/Science, Princeton University"
+},{
+  "_id": {
+    "$oid": "61d4da2cab6f6f1e47dbc8b6"
+  },
+  "Name": [
+    "Elon Musk "
+  ],
+  "Age": "50",
+  "Source of Wealth": "Tesla, SpaceX, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "1",
+  "Residence": "Austin, Texas",
+  "Citizenship": "United States",
+  "Marital Status": "In Relationship",
+  "Children": "6",
+  "Education": "Bachelor of Arts/Science, University of Pennsylvania"
+},{
+  "_id": {
+    "$oid": "61d4da2cab6f6f1e47dbc8b7"
+  },
+  "Name": [
+    "Bernard Arnault & family "
+  ],
+  "Age": "72",
+  "Source of Wealth": "LVMH",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Paris, France",
+  "Citizenship": "France",
+  "Marital Status": "Married",
+  "Children": "5",
+  "Education": "Bachelor of Arts/Science, Ecole Polytechnique de Paris"
+},{
+  "_id": {
+    "$oid": "61d4da2dab6f6f1e47dbc8b8"
+  },
+  "Name": [
+    "Bill Gates "
+  ],
+  "Age": "66",
+  "Source of Wealth": "Microsoft, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "4",
+  "Residence": "Medina, Washington",
+  "Citizenship": "United States",
+  "Marital Status": "Divorced",
+  "Children": "3",
+  "Education": "Drop Out, Harvard University"
+},{
+  "_id": {
+    "$oid": "61d4da2dab6f6f1e47dbc8b9"
+  },
+  "Name": [
+    "Mark Zuckerberg "
+  ],
+  "Age": "37",
+  "Source of Wealth": "Facebook, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "2",
+  "Residence": "Palo Alto, California",
+  "Citizenship": "",
+  "Marital Status": "",
+  "Children": "2",
+  "Education": "Drop Out, Harvard University"
+},{
+  "_id": {
+    "$oid": "61d4da2dab6f6f1e47dbc8ba"
+  },
+  "Name": [
+    "Warren Buffett "
+  ],
+  "Age": "91",
+  "Source of Wealth": "Berkshire Hathaway, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "5",
+  "Residence": "Omaha, Nebraska",
+  "Citizenship": "United States",
+  "Marital Status": "Widowed, Remarried",
+  "Children": "3",
+  "Education": "Master of Science, Columbia University; Bachelor of Arts/Science, University of Nebraska Lincoln"
+},{
+  "_id": {
+    "$oid": "61d4da2eab6f6f1e47dbc8bb"
+  },
+  "Name": [
+    "Larry Ellison "
+  ],
+  "Age": "77",
+  "Source of Wealth": "software, Self Made",
+  "Self-Made Score": "9",
+  "Philanthropy Score": "1",
+  "Residence": "Lanai, Hawaii",
+  "Citizenship": "United States",
+  "Marital Status": "In Relationship",
+  "Children": "4",
+  "Education": "Drop Out, University of Chicago; Drop Out, University of Illinois, Urbana-Champaign"
+},{
+  "_id": {
+    "$oid": "61d4da2eab6f6f1e47dbc8bc"
+  },
+  "Name": [
+    "Larry Page "
+  ],
+  "Age": "48",
+  "Source of Wealth": "Google, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "1",
+  "Residence": "Palo Alto, California",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "1",
+  "Education": "Master of Science, Stanford University; Bachelor of Arts/Science, University of Michigan"
+},{
+  "_id": {
+    "$oid": "61d4da2eab6f6f1e47dbc8bd"
+  },
+  "Name": [
+    "Sergey Brin "
+  ],
+  "Age": "48",
+  "Source of Wealth": "Google, Self Made",
+  "Self-Made Score": "9",
+  "Philanthropy Score": "1",
+  "Residence": "Los Altos, California",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Master of Science, Stanford University; Bachelor of Arts/Science, University of Maryland, College Park"
+},{
+  "_id": {
+    "$oid": "61d4da2fab6f6f1e47dbc8be"
+  },
+  "Name": [
+    "Mukesh Ambani "
+  ],
+  "Age": "64",
+  "Source of Wealth": "diversified",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Mumbai, India",
+  "Citizenship": "India",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Drop Out, Stanford University; Bachelor of Science in Engineering, University of Mumbai"
+},{
+  "_id": {
+    "$oid": "61d4da2fab6f6f1e47dbc8bf"
+  },
+  "Name": [
+    "Amancio Ortega "
+  ],
+  "Age": "85",
+  "Source of Wealth": "Zara, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "La Coruna, Spain",
+  "Citizenship": "Spain",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da2fab6f6f1e47dbc8c0"
+  },
+  "Name": [
+    "Francoise Bettencourt Meyers & family "
+  ],
+  "Age": "68",
+  "Source of Wealth": "L'Oréal",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Paris, France",
+  "Citizenship": "France",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da30ab6f6f1e47dbc8c1"
+  },
+  "Name": [
+    "Zhong Shanshan "
+  ],
+  "Age": "67",
+  "Source of Wealth": "beverages, pharmaceuticals, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hangzhou, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da30ab6f6f1e47dbc8c2"
+  },
+  "Name": [
+    "Steve Ballmer "
+  ],
+  "Age": "65",
+  "Source of Wealth": "Microsoft, Self Made",
+  "Self-Made Score": "6",
+  "Philanthropy Score": "2",
+  "Residence": "Hunts Point, Washington",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, Harvard University; Drop Out, Stanford University"
+},{
+  "_id": {
+    "$oid": "61d4da30ab6f6f1e47dbc8c3"
+  },
+  "Name": [
+    "Ma Huateng "
+  ],
+  "Age": "50",
+  "Source of Wealth": "internet media, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Shenzhen, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Shenzhen University"
+},{
+  "_id": {
+    "$oid": "61d4da31ab6f6f1e47dbc8c4"
+  },
+  "Name": [
+    "Carlos Slim Helu & family "
+  ],
+  "Age": "81",
+  "Source of Wealth": "telecom, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Mexico City, Mexico",
+  "Citizenship": "Mexico",
+  "Marital Status": "Widowed",
+  "Children": "6",
+  "Education": "Bachelor of Arts/Science, Universidad Nacional Autonoma de Mexico"
+},{
+  "_id": {
+    "$oid": "61d4da31ab6f6f1e47dbc8c5"
+  },
+  "Name": [
+    "Alice Walton "
+  ],
+  "Age": "72",
+  "Source of Wealth": "Walmart",
+  "Self-Made Score": "1",
+  "Philanthropy Score": "2",
+  "Residence": "Fort Worth, Texas",
+  "Citizenship": "United States",
+  "Marital Status": "Divorced",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Trinity University"
+},{
+  "_id": {
+    "$oid": "61d4da32ab6f6f1e47dbc8c6"
+  },
+  "Name": [
+    "Jim Walton "
+  ],
+  "Age": "73",
+  "Source of Wealth": "Walmart",
+  "Self-Made Score": "2",
+  "Philanthropy Score": "1",
+  "Residence": "Bentonville, Arkansas",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "4",
+  "Education": "Bachelor of Arts/Science, University of Arkansas"
+},{
+  "_id": {
+    "$oid": "61d4da32ab6f6f1e47dbc8c7"
+  },
+  "Name": [
+    "Rob Walton "
+  ],
+  "Age": "77",
+  "Source of Wealth": "Walmart",
+  "Self-Made Score": "4",
+  "Philanthropy Score": "1",
+  "Residence": "Bentonville, Arkansas",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Doctor of Jurisprudence, Columbia University; Bachelor of Arts/Science, University of Arkansas"
+},{
+  "_id": {
+    "$oid": "61d4da33ab6f6f1e47dbc8c8"
+  },
+  "Name": [
+    "Michael Bloomberg "
+  ],
+  "Age": "79",
+  "Source of Wealth": "Bloomberg LP, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "4",
+  "Residence": "New York, New York",
+  "Citizenship": "United States",
+  "Marital Status": "In Relationship",
+  "Children": "2",
+  "Education": "Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Johns Hopkins University"
+},{
+  "_id": {
+    "$oid": "61d4da33ab6f6f1e47dbc8c9"
+  },
+  "Name": [
+    "Colin Zheng Huang "
+  ],
+  "Age": "41",
+  "Source of Wealth": "e-commerce, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Shanghai, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Master, University of Wisconsin Madison; Bachelor of Arts/Science, Zhejiang University"
+},{
+  "_id": {
+    "$oid": "61d4da33ab6f6f1e47dbc8ca"
+  },
+  "Name": [
+    "MacKenzie Scott "
+  ],
+  "Age": "51",
+  "Source of Wealth": "Amazon",
+  "Self-Made Score": "3",
+  "Philanthropy Score": "4",
+  "Residence": "Seattle, Washington",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "4",
+  "Education": "Bachelor of Arts/Science, Princeton University"
+},{
+  "_id": {
+    "$oid": "61d4da34ab6f6f1e47dbc8cb"
+  },
+  "Name": [
+    "Daniel Gilbert "
+  ],
+  "Age": "59",
+  "Source of Wealth": "Quicken Loans, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "1",
+  "Residence": "Franklin, Michigan",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "5",
+  "Education": "Bachelor of Arts/Science, Michigan State University; LLB, Wayne State University"
+},{
+  "_id": {
+    "$oid": "61d4da34ab6f6f1e47dbc8cc"
+  },
+  "Name": [
+    "Gautam Adani & family "
+  ],
+  "Age": "59",
+  "Source of Wealth": "commodities, infrastructure, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Ahmedabad, India",
+  "Citizenship": "India",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da34ab6f6f1e47dbc8cd"
+  },
+  "Name": [
+    "Phil Knight & family "
+  ],
+  "Age": "83",
+  "Source of Wealth": "Nike, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "2",
+  "Residence": "Hillsboro, Oregon",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts/Science, University of Oregon"
+},{
+  "_id": {
+    "$oid": "61d4da35ab6f6f1e47dbc8ce"
+  },
+  "Name": [
+    "Jack Ma "
+  ],
+  "Age": "57",
+  "Source of Wealth": "e-commerce, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hangzhou, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Hangzhou Teacher's Institute"
+},{
+  "_id": {
+    "$oid": "61d4da35ab6f6f1e47dbc8cf"
+  },
+  "Name": [
+    "Charles Koch "
+  ],
+  "Age": "86",
+  "Source of Wealth": "Koch Industries",
+  "Self-Made Score": "5",
+  "Philanthropy Score": "2",
+  "Residence": "Wichita, Kansas",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, Massachusetts Institute of Technology; Master of Science, Massachusetts Institute of Technology"
+},{
+  "_id": {
+    "$oid": "61d4da35ab6f6f1e47dbc8d0"
+  },
+  "Name": [
+    "Julia Koch & family "
+  ],
+  "Age": "59",
+  "Source of Wealth": "Koch Industries",
+  "Self-Made Score": "1",
+  "Philanthropy Score": "2",
+  "Residence": "New York, New York",
+  "Citizenship": "United States",
+  "Marital Status": "Widowed",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, University of Central Arkansas"
+},{
+  "_id": {
+    "$oid": "61d4da36ab6f6f1e47dbc8d1"
+  },
+  "Name": [
+    "Masayoshi Son "
+  ],
+  "Age": "64",
+  "Source of Wealth": "internet, telecom, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Tokyo, Japan",
+  "Citizenship": "Japan",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, University of California, Berkeley"
+},{
+  "_id": {
+    "$oid": "61d4da36ab6f6f1e47dbc8d2"
+  },
+  "Name": [
+    "Michael Dell "
+  ],
+  "Age": "56",
+  "Source of Wealth": "Dell computers, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "2",
+  "Residence": "$1.8B",
+  "Citizenship": "3%",
+  "Marital Status": "Austin, Texas",
+  "Children": "United States",
+  "Education": "Married"
+},{
+  "_id": {
+    "$oid": "61d4da36ab6f6f1e47dbc8d3"
+  },
+  "Name": [
+    "Tadashi Yanai & family "
+  ],
+  "Age": "72",
+  "Source of Wealth": "fashion retail, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Tokyo, Japan",
+  "Citizenship": "Japan",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, Waseda University"
+},{
+  "_id": {
+    "$oid": "61d4da37ab6f6f1e47dbc8d4"
+  },
+  "Name": [
+    "François Pinault & family "
+  ],
+  "Age": "85",
+  "Source of Wealth": "luxury goods, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Paris, France",
+  "Citizenship": "France",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Drop Out, High School"
+},{
+  "_id": {
+    "$oid": "61d4da37ab6f6f1e47dbc8d5"
+  },
+  "Name": [
+    "David Thomson & family "
+  ],
+  "Age": "64",
+  "Source of Wealth": "media",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Toronto, Canada",
+  "Citizenship": "Canada",
+  "Marital Status": "Divorced",
+  "Children": "4",
+  "Education": "Master of Arts, University of Cambridge"
+},{
+  "_id": {
+    "$oid": "61d4da37ab6f6f1e47dbc8d6"
+  },
+  "Name": [
+    "Beate Heister & Karl Albrecht Jr. "
+  ],
+  "Age": "",
+  "Source of Wealth": "supermarkets",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Germany",
+  "Citizenship": "Germany",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da38ab6f6f1e47dbc8d7"
+  },
+  "Name": [
+    "Wang Wei "
+  ],
+  "Age": "51",
+  "Source of Wealth": "package delivery, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Shenzhen, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da38ab6f6f1e47dbc8d8"
+  },
+  "Name": [
+    "Miriam Adelson "
+  ],
+  "Age": "76",
+  "Source of Wealth": "casinos",
+  "Self-Made Score": "2",
+  "Philanthropy Score": "2",
+  "Residence": "Las Vegas, Nevada",
+  "Citizenship": "United States",
+  "Marital Status": "Widowed",
+  "Children": "5",
+  "Education": "Bachelor of Science, Hebrew University Jerusalem"
+},{
+  "_id": {
+    "$oid": "61d4da38ab6f6f1e47dbc8d9"
+  },
+  "Name": [
+    "He Xiangjian "
+  ],
+  "Age": "79",
+  "Source of Wealth": "home appliances, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Foshan, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da38ab6f6f1e47dbc8da"
+  },
+  "Name": [
+    "Dieter Schwarz "
+  ],
+  "Age": "82",
+  "Source of Wealth": "retail",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Neckarsulm, Germany",
+  "Citizenship": "Germany",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da39ab6f6f1e47dbc8db"
+  },
+  "Name": [
+    "Zhang Yiming "
+  ],
+  "Age": "38",
+  "Source of Wealth": "TikTok, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Beijing, China",
+  "Citizenship": "",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Bachelor of Engineering, Nankai University"
+},{
+  "_id": {
+    "$oid": "61d4da39ab6f6f1e47dbc8dc"
+  },
+  "Name": [
+    "Giovanni Ferrero "
+  ],
+  "Age": "57",
+  "Source of Wealth": "Nutella, chocolates",
+  "Self-Made Score": "4",
+  "Philanthropy Score": "",
+  "Residence": "Brussels, Belgium",
+  "Citizenship": "Italy",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da3aab6f6f1e47dbc8dd"
+  },
+  "Name": [
+    "Alain Wertheimer "
+  ],
+  "Age": "73",
+  "Source of Wealth": "Chanel",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "New York, New York",
+  "Citizenship": "France",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da3aab6f6f1e47dbc8de"
+  },
+  "Name": [
+    "Gerard Wertheimer "
+  ],
+  "Age": "70",
+  "Source of Wealth": "Chanel",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "New York, New York",
+  "Citizenship": "France",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da3aab6f6f1e47dbc8df"
+  },
+  "Name": [
+    "Li Ka-shing "
+  ],
+  "Age": "93",
+  "Source of Wealth": "diversified, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hong Kong",
+  "Citizenship": "Hong Kong",
+  "Marital Status": "Widowed",
+  "Children": "2",
+  "Education": "Drop Out, High School"
+},{
+  "_id": {
+    "$oid": "61d4da3aab6f6f1e47dbc8e0"
+  },
+  "Name": [
+    "Qin Yinglin & family "
+  ],
+  "Age": "56",
+  "Source of Wealth": "pig breeding, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Nanyang, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da3bab6f6f1e47dbc8e1"
+  },
+  "Name": [
+    "William Lei Ding "
+  ],
+  "Age": "50",
+  "Source of Wealth": "online games, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hangzhou, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, University of Electronic Science and Technology of China"
+},{
+  "_id": {
+    "$oid": "61d4da3bab6f6f1e47dbc8e2"
+  },
+  "Name": [
+    "Len Blavatnik "
+  ],
+  "Age": "64",
+  "Source of Wealth": "music, chemicals, Self Made",
+  "Self-Made Score": "9",
+  "Philanthropy Score": "2",
+  "Residence": "London, United Kingdom",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Master of Science, Columbia University; Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Moscow State University"
+},{
+  "_id": {
+    "$oid": "61d4da3bab6f6f1e47dbc8e3"
+  },
+  "Name": [
+    "Lee Shau Kee "
+  ],
+  "Age": "93",
+  "Source of Wealth": "real estate, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hong Kong, Hong Kong",
+  "Citizenship": "Hong Kong",
+  "Marital Status": "Divorced",
+  "Children": "5",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da3cab6f6f1e47dbc8e4"
+  },
+  "Name": [
+    "Jacqueline Mars "
+  ],
+  "Age": "82",
+  "Source of Wealth": "candy, pet food",
+  "Self-Made Score": "2",
+  "Philanthropy Score": "",
+  "Residence": "The Plains, Virginia",
+  "Citizenship": "United States",
+  "Marital Status": "Divorced",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, Bryn Mawr College"
+},{
+  "_id": {
+    "$oid": "61d4da3cab6f6f1e47dbc8e5"
+  },
+  "Name": [
+    "John Mars "
+  ],
+  "Age": "86",
+  "Source of Wealth": "candy, pet food",
+  "Self-Made Score": "2",
+  "Philanthropy Score": "",
+  "Residence": "Jackson, Wyoming",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Diploma, The Hotchkiss School; Bachelor of Arts/Science, Yale University"
+},{
+  "_id": {
+    "$oid": "61d4da3cab6f6f1e47dbc8e6"
+  },
+  "Name": [
+    "Yang Huiyan & family "
+  ],
+  "Age": "40",
+  "Source of Wealth": "real estate",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Foshan, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Ohio State University"
+},{
+  "_id": {
+    "$oid": "61d4da3dab6f6f1e47dbc8e7"
+  },
+  "Name": [
+    "Alexey Mordashov & family "
+  ],
+  "Age": "56",
+  "Source of Wealth": "steel, investments, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "7",
+  "Education": "Bachelor of Arts/Science, Leningrad Institute of Economics; Master of Business Administration, University of Northumbria"
+},{
+  "_id": {
+    "$oid": "61d4da3dab6f6f1e47dbc8e8"
+  },
+  "Name": [
+    "Robin Zeng "
+  ],
+  "Age": "53",
+  "Source of Wealth": "batteries, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Ningde, China",
+  "Citizenship": "Hong Kong",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Doctorate, Chinese Academy of Social Sciences"
+},{
+  "_id": {
+    "$oid": "61d4da3dab6f6f1e47dbc8e9"
+  },
+  "Name": [
+    "Hui Ka Yan "
+  ],
+  "Age": "63",
+  "Source of Wealth": "real estate, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Shenzhen, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, Wuhan U of  Science & Tec"
+},{
+  "_id": {
+    "$oid": "61d4da3eab6f6f1e47dbc8ea"
+  },
+  "Name": [
+    "Susanne Klatten "
+  ],
+  "Age": "59",
+  "Source of Wealth": "BMW, pharmaceuticals",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Bad Homburg, Germany",
+  "Citizenship": "Germany",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Master of Business Administration, International Institute for Management and Development"
+},{
+  "_id": {
+    "$oid": "61d4da3eab6f6f1e47dbc8eb"
+  },
+  "Name": [
+    "Vladimir Potanin "
+  ],
+  "Age": "61",
+  "Source of Wealth": "metals, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "7",
+  "Education": "Bachelor of Arts/Science, Moscow Institute of International Relations"
+},{
+  "_id": {
+    "$oid": "61d4da3eab6f6f1e47dbc8ec"
+  },
+  "Name": [
+    "Dietrich Mateschitz "
+  ],
+  "Age": "77",
+  "Source of Wealth": "Red Bull, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Fuschl am See, Austria",
+  "Citizenship": "Austria",
+  "Marital Status": "Single",
+  "Children": "1",
+  "Education": "Master of Business Administration, University of Vienna"
+},{
+  "_id": {
+    "$oid": "61d4da3fab6f6f1e47dbc8ed"
+  },
+  "Name": [
+    "Pang Kang "
+  ],
+  "Age": "65",
+  "Source of Wealth": "soy sauce, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Foshan, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da3fab6f6f1e47dbc8ee"
+  },
+  "Name": [
+    "Klaus-Michael Kuehne "
+  ],
+  "Age": "84",
+  "Source of Wealth": "shipping",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Schindellegi, Switzerland",
+  "Citizenship": "Germany",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da3fab6f6f1e47dbc8ef"
+  },
+  "Name": [
+    "Vladimir Lisin "
+  ],
+  "Age": "65",
+  "Source of Wealth": "steel, transport, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Doctorate, Russian Academy of Economics; Bachelor of Arts/Science, Siberian Metallurgical Institute"
+},{
+  "_id": {
+    "$oid": "61d4da40ab6f6f1e47dbc8f0"
+  },
+  "Name": [
+    "Wang Xing "
+  ],
+  "Age": "42",
+  "Source of Wealth": "e-commerce, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Beijing, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Graduate, Tsinghua University"
+},{
+  "_id": {
+    "$oid": "61d4da40ab6f6f1e47dbc8f1"
+  },
+  "Name": [
+    "German Larrea Mota Velasco & family "
+  ],
+  "Age": "68",
+  "Source of Wealth": "mining",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Mexico City, Mexico",
+  "Citizenship": "Mexico",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da40ab6f6f1e47dbc8f2"
+  },
+  "Name": [
+    "Leonardo Del Vecchio & family "
+  ],
+  "Age": "86",
+  "Source of Wealth": "eyeglasses, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Milan, Italy",
+  "Citizenship": "Italy",
+  "Marital Status": "Married",
+  "Children": "6",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da41ab6f6f1e47dbc8f3"
+  },
+  "Name": [
+    "Takemitsu Takizaki "
+  ],
+  "Age": "76",
+  "Source of Wealth": "sensors, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Osaka, Japan",
+  "Citizenship": "Japan",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da41ab6f6f1e47dbc8f4"
+  },
+  "Name": [
+    "Leonard Lauder "
+  ],
+  "Age": "88",
+  "Source of Wealth": "Estee Lauder",
+  "Self-Made Score": "5",
+  "Philanthropy Score": "2",
+  "Residence": "New York, New York",
+  "Citizenship": "United States",
+  "Marital Status": "Widowed, Remarried",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, University of Pennsylvania"
+},{
+  "_id": {
+    "$oid": "61d4da41ab6f6f1e47dbc8f5"
+  },
+  "Name": [
+    "Thomas Peterffy "
+  ],
+  "Age": "77",
+  "Source of Wealth": "discount brokerage, Self Made",
+  "Self-Made Score": "10",
+  "Philanthropy Score": "1",
+  "Residence": "Palm Beach, Florida",
+  "Citizenship": "United States",
+  "Marital Status": "Divorced",
+  "Children": "3",
+  "Education": "Drop Out, New York University"
+},{
+  "_id": {
+    "$oid": "61d4da42ab6f6f1e47dbc8f6"
+  },
+  "Name": [
+    "Vagit Alekperov "
+  ],
+  "Age": "71",
+  "Source of Wealth": "oil, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "1",
+  "Education": "Bachelor of Science in Engineering, Azerbaijan Institute of Oil and Chemistry"
+},{
+  "_id": {
+    "$oid": "61d4da42ab6f6f1e47dbc8f7"
+  },
+  "Name": [
+    "Leonid Mikhelson "
+  ],
+  "Age": "66",
+  "Source of Wealth": "gas, chemicals, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, Kuybyshev Engineering and Construction Institute"
+},{
+  "_id": {
+    "$oid": "61d4da42ab6f6f1e47dbc8f8"
+  },
+  "Name": [
+    "Jim Simons "
+  ],
+  "Age": "83",
+  "Source of Wealth": "hedge funds, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "3",
+  "Residence": "East Setauket, New York",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, Massachusetts Institute of Technology; Doctorate, University of California, Berkeley"
+},{
+  "_id": {
+    "$oid": "61d4da43ab6f6f1e47dbc8f9"
+  },
+  "Name": [
+    "Jiang Rensheng & family "
+  ],
+  "Age": "68",
+  "Source of Wealth": "vaccines, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Chongqing, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "1",
+  "Education": "Associate in Arts/Science, Guilin Medical University"
+},{
+  "_id": {
+    "$oid": "61d4da43ab6f6f1e47dbc8fa"
+  },
+  "Name": [
+    "Gina Rinehart "
+  ],
+  "Age": "67",
+  "Source of Wealth": "mining",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Perth, Australia",
+  "Citizenship": "Australia",
+  "Marital Status": "Widowed",
+  "Children": "4",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da43ab6f6f1e47dbc8fb"
+  },
+  "Name": [
+    "Rupert Murdoch & family "
+  ],
+  "Age": "90",
+  "Source of Wealth": "newspapers, TV network",
+  "Self-Made Score": "5",
+  "Philanthropy Score": "1",
+  "Residence": "New York, New York",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "6",
+  "Education": "Bachelor of Arts/Science, Oxford University; Master of Arts, Oxford University"
+},{
+  "_id": {
+    "$oid": "61d4da44ab6f6f1e47dbc8fc"
+  },
+  "Name": [
+    "Shiv Nadar "
+  ],
+  "Age": "76",
+  "Source of Wealth": "software services, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Delhi, India",
+  "Citizenship": "India",
+  "Marital Status": "Married",
+  "Children": "1",
+  "Education": "Bachelor of Arts/Science, PSG College of Technology"
+},{
+  "_id": {
+    "$oid": "61d4da44ab6f6f1e47dbc8fd"
+  },
+  "Name": [
+    "Zhang Zhidong "
+  ],
+  "Age": "50",
+  "Source of Wealth": "internet media, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Shenzhen, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Shenzhen University; Master of Arts, South China University of Technology"
+},{
+  "_id": {
+    "$oid": "61d4da44ab6f6f1e47dbc8fe"
+  },
+  "Name": [
+    "Iris Fontbona & family "
+  ],
+  "Age": "79",
+  "Source of Wealth": "mining",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Santiago, Chile",
+  "Citizenship": "Chile",
+  "Marital Status": "Widowed",
+  "Children": "3",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da45ab6f6f1e47dbc8ff"
+  },
+  "Name": [
+    "Lei Jun "
+  ],
+  "Age": "52",
+  "Source of Wealth": "smartphones, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Beijing, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Science in Engineering, Wuhan University"
+},{
+  "_id": {
+    "$oid": "61d4da45ab6f6f1e47dbc900"
+  },
+  "Name": [
+    "Zhang Yong "
+  ],
+  "Age": "51",
+  "Source of Wealth": "restaurants, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Singapore, Singapore",
+  "Citizenship": "Singapore",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da45ab6f6f1e47dbc901"
+  },
+  "Name": [
+    "Richard Qiangdong Liu "
+  ],
+  "Age": "47",
+  "Source of Wealth": "e-commerce, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Beijing, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Renmin University of China"
+},{
+  "_id": {
+    "$oid": "61d4da46ab6f6f1e47dbc902"
+  },
+  "Name": [
+    "Gennady Timchenko "
+  ],
+  "Age": "69",
+  "Source of Wealth": "oil, gas, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, Leningrad Mechanical Institute"
+},{
+  "_id": {
+    "$oid": "61d4da46ab6f6f1e47dbc903"
+  },
+  "Name": [
+    "Stephen Schwarzman "
+  ],
+  "Age": "74",
+  "Source of Wealth": "investments, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "2",
+  "Residence": "New York, New York",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Yale University"
+},{
+  "_id": {
+    "$oid": "61d4da46ab6f6f1e47dbc904"
+  },
+  "Name": [
+    "Goh Cheng Liang "
+  ],
+  "Age": "94",
+  "Source of Wealth": "paints, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Singapore, Singapore",
+  "Citizenship": "Singapore",
+  "Marital Status": "Widowed",
+  "Children": "3",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da47ab6f6f1e47dbc905"
+  },
+  "Name": [
+    "Stefan Quandt "
+  ],
+  "Age": "55",
+  "Source of Wealth": "BMW",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Frankfurt, Germany",
+  "Citizenship": "Germany",
+  "Marital Status": "Married",
+  "Children": "1",
+  "Education": "Associate in Arts/Science, Technical University of Karlsruhe"
+},{
+  "_id": {
+    "$oid": "61d4da47ab6f6f1e47dbc906"
+  },
+  "Name": [
+    "Li Xiting "
+  ],
+  "Age": "71",
+  "Source of Wealth": "medical devices, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Shenzhen, China",
+  "Citizenship": "Singapore",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Bachelor of Science, University of Science and Technology of China"
+},{
+  "_id": {
+    "$oid": "61d4da47ab6f6f1e47dbc907"
+  },
+  "Name": [
+    "Pierre Omidyar "
+  ],
+  "Age": "54",
+  "Source of Wealth": "eBay, PayPal, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "3",
+  "Residence": "Honolulu, Hawaii",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, Tufts University"
+},{
+  "_id": {
+    "$oid": "61d4da48ab6f6f1e47dbc908"
+  },
+  "Name": [
+    "Stefan Persson "
+  ],
+  "Age": "74",
+  "Source of Wealth": "H&M",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Stockholm, Sweden",
+  "Citizenship": "Sweden",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Associate in Arts/Science, University of Stockholm"
+},{
+  "_id": {
+    "$oid": "61d4da48ab6f6f1e47dbc909"
+  },
+  "Name": [
+    "Abigail Johnson "
+  ],
+  "Age": "60",
+  "Source of Wealth": "money management",
+  "Self-Made Score": "4",
+  "Philanthropy Score": "1",
+  "Residence": "Milton, Massachusetts",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Hobart and William Smith"
+},{
+  "_id": {
+    "$oid": "61d4da48ab6f6f1e47dbc90a"
+  },
+  "Name": [
+    "R. Budi Hartono "
+  ],
+  "Age": "81",
+  "Source of Wealth": "banking, tobacco",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Kudus, Indonesia",
+  "Citizenship": "Indonesia",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da49ab6f6f1e47dbc90b"
+  },
+  "Name": [
+    "Andrew Forrest "
+  ],
+  "Age": "60",
+  "Source of Wealth": "mining, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Perth, Australia",
+  "Citizenship": "Australia",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, University of Western Australia"
+},{
+  "_id": {
+    "$oid": "61d4da49ab6f6f1e47dbc90c"
+  },
+  "Name": [
+    "Ray Dalio "
+  ],
+  "Age": "72",
+  "Source of Wealth": "hedge funds, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "2",
+  "Residence": "Greenwich, Connecticut",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "4",
+  "Education": "Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Long Island University"
+},{
+  "_id": {
+    "$oid": "61d4da49ab6f6f1e47dbc90d"
+  },
+  "Name": [
+    "Michael Hartono "
+  ],
+  "Age": "82",
+  "Source of Wealth": "banking, tobacco",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Kudus, Indonesia",
+  "Citizenship": "Indonesia",
+  "Marital Status": "Married",
+  "Children": "4",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da4aab6f6f1e47dbc90e"
+  },
+  "Name": [
+    "Li Shufu "
+  ],
+  "Age": "58",
+  "Source of Wealth": "automobiles, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hangzhou, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Master of Science, Yanshan University"
+},{
+  "_id": {
+    "$oid": "61d4da4aab6f6f1e47dbc90f"
+  },
+  "Name": [
+    "Zhong Huijuan "
+  ],
+  "Age": "61",
+  "Source of Wealth": "pharmaceuticals, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Shanghai, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "EMBA, Nanjing University"
+},{
+  "_id": {
+    "$oid": "61d4da4aab6f6f1e47dbc910"
+  },
+  "Name": [
+    "Xu Hang "
+  ],
+  "Age": "55",
+  "Source of Wealth": "medical devices, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Shenzhen, China",
+  "Citizenship": "Hong Kong",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "EMBA, Ceibs; Bachelor of Engineering, Tsinghua University; Master of Science in Engineering, Tsinghua University"
+},{
+  "_id": {
+    "$oid": "61d4da4bab6f6f1e47dbc911"
+  },
+  "Name": [
+    "Lui Che Woo & family "
+  ],
+  "Age": "92",
+  "Source of Wealth": "casinos/hotels, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hong Kong, Hong Kong",
+  "Citizenship": "Hong Kong",
+  "Marital Status": "Married",
+  "Children": "5",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da4bab6f6f1e47dbc912"
+  },
+  "Name": [
+    "Emmanuel Besnier "
+  ],
+  "Age": "51",
+  "Source of Wealth": "cheese",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Laval, France",
+  "Citizenship": "France",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da4bab6f6f1e47dbc913"
+  },
+  "Name": [
+    "Laurene Powell Jobs & family "
+  ],
+  "Age": "58",
+  "Source of Wealth": "Apple, Disney",
+  "Self-Made Score": "2",
+  "Philanthropy Score": "1",
+  "Residence": "Palo Alto, California",
+  "Citizenship": "United States",
+  "Marital Status": "Widowed",
+  "Children": "3",
+  "Education": "Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts/Science, University of Pennsylvania, The Wharton School"
+},{
+  "_id": {
+    "$oid": "61d4da4cab6f6f1e47dbc914"
+  },
+  "Name": [
+    "Eric Schmidt "
+  ],
+  "Age": "66",
+  "Source of Wealth": "Google, Self Made",
+  "Self-Made Score": "6",
+  "Philanthropy Score": "2",
+  "Residence": "Atherton, California",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, Princeton University; Doctorate, University of California, Berkeley; Master of Science, University of California, Berkeley"
+},{
+  "_id": {
+    "$oid": "61d4da4cab6f6f1e47dbc915"
+  },
+  "Name": [
+    "Sun Piaoyang "
+  ],
+  "Age": "63",
+  "Source of Wealth": "pharmaceuticals, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Lianyungang, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "1",
+  "Education": "Bachelor of Arts/Science, China Pharmaceutical University; Doctorate, Nanjing University"
+},{
+  "_id": {
+    "$oid": "61d4da4cab6f6f1e47dbc916"
+  },
+  "Name": [
+    "Theo Albrecht, Jr. & family "
+  ],
+  "Age": "71",
+  "Source of Wealth": "Aldi, Trader Joe's",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Mulheim an der Ruhr, Germany",
+  "Citizenship": "Germany",
+  "Marital Status": "",
+  "Children": "1",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da4dab6f6f1e47dbc917"
+  },
+  "Name": [
+    "Alisher Usmanov "
+  ],
+  "Age": "68",
+  "Source of Wealth": "steel, telecom, investments, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Master, Finance Academy under the Government of the Russian Federation; Master of Laws, Moscow Institute of International Relations"
+},{
+  "_id": {
+    "$oid": "61d4da4dab6f6f1e47dbc918"
+  },
+  "Name": [
+    "Robert Pera "
+  ],
+  "Age": "43",
+  "Source of Wealth": "wireless networking gear, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "1",
+  "Residence": "San Jose, California",
+  "Citizenship": "United States",
+  "Marital Status": "Single",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, University of California, San Diego; Master of Science, University of California, San Diego"
+},{
+  "_id": {
+    "$oid": "61d4da4dab6f6f1e47dbc919"
+  },
+  "Name": [
+    "Wu Yajun "
+  ],
+  "Age": "58",
+  "Source of Wealth": "real estate, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Beijing, China",
+  "Citizenship": "China",
+  "Marital Status": "Divorced",
+  "Children": "1",
+  "Education": "Bachelor of Engineering, Northwestern Polytechnical University"
+},{
+  "_id": {
+    "$oid": "61d4da4eab6f6f1e47dbc91a"
+  },
+  "Name": [
+    "Fan Hongwei & family "
+  ],
+  "Age": "55",
+  "Source of Wealth": "petrochemicals, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Wujiang, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da4eab6f6f1e47dbc91b"
+  },
+  "Name": [
+    "Dhanin Chearavanont "
+  ],
+  "Age": "82",
+  "Source of Wealth": "diversified",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Bangkok, Thailand",
+  "Citizenship": "Thailand",
+  "Marital Status": "Married",
+  "Children": "5",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da4eab6f6f1e47dbc91c"
+  },
+  "Name": [
+    "Peter Woo "
+  ],
+  "Age": "75",
+  "Source of Wealth": "real estate",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hong Kong, Hong Kong",
+  "Citizenship": "Hong Kong",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Master of Business Administration, Columbia Business School"
+},{
+  "_id": {
+    "$oid": "61d4da4fab6f6f1e47dbc91d"
+  },
+  "Name": [
+    "Chen Bang "
+  ],
+  "Age": "56",
+  "Source of Wealth": "hospitals, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Changsha, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Master of Business Administration, Hunan University"
+},{
+  "_id": {
+    "$oid": "61d4da4fab6f6f1e47dbc91e"
+  },
+  "Name": [
+    "Andrey Melnichenko "
+  ],
+  "Age": "49",
+  "Source of Wealth": "coal, fertilizers, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Master of Science, Plekhanov Russian University of Economics"
+},{
+  "_id": {
+    "$oid": "61d4da4fab6f6f1e47dbc91f"
+  },
+  "Name": [
+    "Dustin Moskovitz "
+  ],
+  "Age": "37",
+  "Source of Wealth": "Facebook, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "3",
+  "Residence": "San Francisco, California",
+  "Citizenship": "",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Drop Out, Harvard University"
+},{
+  "_id": {
+    "$oid": "61d4da50ab6f6f1e47dbc920"
+  },
+  "Name": [
+    "Su Hua "
+  ],
+  "Age": "40",
+  "Source of Wealth": "video streaming, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Beijing, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Bachelor of Science, Tsinghua University"
+},{
+  "_id": {
+    "$oid": "61d4da50ab6f6f1e47dbc921"
+  },
+  "Name": [
+    "Donald Newhouse "
+  ],
+  "Age": "92",
+  "Source of Wealth": "media",
+  "Self-Made Score": "5",
+  "Philanthropy Score": "1",
+  "Residence": "New York, New York",
+  "Citizenship": "United States",
+  "Marital Status": "Widowed",
+  "Children": "3",
+  "Education": "Drop Out, Syracuse University"
+},{
+  "_id": {
+    "$oid": "61d4da50ab6f6f1e47dbc922"
+  },
+  "Name": [
+    "Petr Kellner "
+  ],
+  "Age": "",
+  "Source of Wealth": "finance, telecommunications, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "",
+  "Citizenship": "Czechia",
+  "Marital Status": "",
+  "Children": "4",
+  "Education": "Bachelor of Arts/Science, University of Economics in Prague"
+},{
+  "_id": {
+    "$oid": "61d4da51ab6f6f1e47dbc923"
+  },
+  "Name": [
+    "Lee Man Tat "
+  ],
+  "Age": "",
+  "Source of Wealth": "food",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "",
+  "Citizenship": "Hong Kong",
+  "Marital Status": "",
+  "Children": "5",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da51ab6f6f1e47dbc924"
+  },
+  "Name": [
+    "Pavel Durov "
+  ],
+  "Age": "37",
+  "Source of Wealth": "messaging app, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Dubai, United Arab Emirates",
+  "Citizenship": "Russia",
+  "Marital Status": "Single",
+  "Children": "2",
+  "Education": "Master of Science, Saint Petersburg State University"
+},{
+  "_id": {
+    "$oid": "61d4da51ab6f6f1e47dbc925"
+  },
+  "Name": [
+    "James Ratcliffe "
+  ],
+  "Age": "69",
+  "Source of Wealth": "chemicals, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "London, United Kingdom",
+  "Citizenship": "United Kingdom",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da52ab6f6f1e47dbc926"
+  },
+  "Name": [
+    "Jorge Paulo Lemann & family "
+  ],
+  "Age": "82",
+  "Source of Wealth": "beer, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Zurich, Switzerland",
+  "Citizenship": "Brazil",
+  "Marital Status": "Married",
+  "Children": "5",
+  "Education": "Bachelor of Arts/Science, Harvard University"
+},{
+  "_id": {
+    "$oid": "61d4da52ab6f6f1e47dbc927"
+  },
+  "Name": [
+    "Reinhold Wuerth & family "
+  ],
+  "Age": "86",
+  "Source of Wealth": "fasteners, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Kuenzelsau, Germany",
+  "Citizenship": "Germany",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da52ab6f6f1e47dbc928"
+  },
+  "Name": [
+    "Charlene de Carvalho-Heineken & family "
+  ],
+  "Age": "67",
+  "Source of Wealth": "Heineken",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "London, United Kingdom",
+  "Citizenship": "Netherlands",
+  "Marital Status": "Married",
+  "Children": "5",
+  "Education": "Bachelor of Arts/Science, Rijnlands Lyceum Wassenaar; Doctor of Jurisprudence, University of Leiden"
+},{
+  "_id": {
+    "$oid": "61d4da53ab6f6f1e47dbc929"
+  },
+  "Name": [
+    "Radhakishan Damani "
+  ],
+  "Age": "67",
+  "Source of Wealth": "retail, investments, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Mumbai, India",
+  "Citizenship": "India",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da53ab6f6f1e47dbc92a"
+  },
+  "Name": [
+    "Wang Chuanfu "
+  ],
+  "Age": "55",
+  "Source of Wealth": "batteries, automobiles, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Shenzhen, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Master of Science, Beijing Non-Ferrous Research Institute; Bachelor of Arts/Science, Central South Industrial University of Technology"
+},{
+  "_id": {
+    "$oid": "61d4da53ab6f6f1e47dbc92b"
+  },
+  "Name": [
+    "Steve Cohen "
+  ],
+  "Age": "65",
+  "Source of Wealth": "hedge funds, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "3",
+  "Residence": "Greenwich, Connecticut",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "7",
+  "Education": "Bachelor of Arts/Science, University of Pennsylvania, The Wharton School"
+},{
+  "_id": {
+    "$oid": "61d4da54ab6f6f1e47dbc92c"
+  },
+  "Name": [
+    "Ken Griffin "
+  ],
+  "Age": "53",
+  "Source of Wealth": "hedge funds, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "3",
+  "Residence": "Chicago, Illinois",
+  "Citizenship": "United States",
+  "Marital Status": "Divorced",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, Harvard University"
+},{
+  "_id": {
+    "$oid": "61d4da54ab6f6f1e47dbc92d"
+  },
+  "Name": [
+    "Chen Zhiping "
+  ],
+  "Age": "46",
+  "Source of Wealth": "e-cigarettes, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Shenzhen, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Master, China Europe International Business School; Bachelor of Arts/Economics, Tongji University"
+},{
+  "_id": {
+    "$oid": "61d4da54ab6f6f1e47dbc92e"
+  },
+  "Name": [
+    "Ernest Garcia, II. "
+  ],
+  "Age": "64",
+  "Source of Wealth": "used cars, Self Made",
+  "Self-Made Score": "9",
+  "Philanthropy Score": "1",
+  "Residence": "Tempe, Arizona",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Drop Out, University of Arizona"
+},{
+  "_id": {
+    "$oid": "61d4da55ab6f6f1e47dbc92f"
+  },
+  "Name": [
+    "Uday Kotak "
+  ],
+  "Age": "62",
+  "Source of Wealth": "banking, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Mumbai, India",
+  "Citizenship": "India",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, University of Mumbai; Master of Business Administration, University of Mumbai"
+},{
+  "_id": {
+    "$oid": "61d4da55ab6f6f1e47dbc930"
+  },
+  "Name": [
+    "Carl Icahn "
+  ],
+  "Age": "85",
+  "Source of Wealth": "investments, Self Made",
+  "Self-Made Score": "9",
+  "Philanthropy Score": "2",
+  "Residence": "Indian Creek, Florida",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Drop Out, New York University; Bachelor of Arts/Science, Princeton University"
+},{
+  "_id": {
+    "$oid": "61d4da55ab6f6f1e47dbc931"
+  },
+  "Name": [
+    "Suleiman Kerimov & family "
+  ],
+  "Age": "55",
+  "Source of Wealth": "investments, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, Dagestan State University"
+},{
+  "_id": {
+    "$oid": "61d4da56ab6f6f1e47dbc932"
+  },
+  "Name": [
+    "Thomas Frist, Jr. & family "
+  ],
+  "Age": "83",
+  "Source of Wealth": "hospitals, Self Made",
+  "Self-Made Score": "7",
+  "Philanthropy Score": "1",
+  "Residence": "Nashville, Tennessee",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, Vanderbilt University; Medical Doctor, Washington University"
+},{
+  "_id": {
+    "$oid": "61d4da56ab6f6f1e47dbc933"
+  },
+  "Name": [
+    "Lukas Walton "
+  ],
+  "Age": "35",
+  "Source of Wealth": "Walmart",
+  "Self-Made Score": "1",
+  "Philanthropy Score": "2",
+  "Residence": "Jackson, Wyoming",
+  "Citizenship": "United States",
+  "Marital Status": "Single",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Colorado College"
+},{
+  "_id": {
+    "$oid": "61d4da56ab6f6f1e47dbc934"
+  },
+  "Name": [
+    "Mikhail Fridman "
+  ],
+  "Age": "57",
+  "Source of Wealth": "oil, banking, telecom, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "London, United Kingdom",
+  "Citizenship": "Russia",
+  "Marital Status": "Divorced",
+  "Children": "5",
+  "Education": "Bachelor of Arts/Science, Moscow Institute of Steel and Alloys"
+},{
+  "_id": {
+    "$oid": "61d4da56ab6f6f1e47dbc935"
+  },
+  "Name": [
+    "Wei Jianjun & family "
+  ],
+  "Age": "57",
+  "Source of Wealth": "automobiles, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Baoding, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Hebei Province"
+},{
+  "_id": {
+    "$oid": "61d4da57ab6f6f1e47dbc936"
+  },
+  "Name": [
+    "Zuo Hui "
+  ],
+  "Age": "",
+  "Source of Wealth": "real estate services, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da57ab6f6f1e47dbc937"
+  },
+  "Name": [
+    "Zhou Qunfei & family "
+  ],
+  "Age": "",
+  "Source of Wealth": "smartphone screens, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hong Kong, Hong Kong",
+  "Citizenship": "Hong Kong",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da58ab6f6f1e47dbc938"
+  },
+  "Name": [
+    "Donald Bren "
+  ],
+  "Age": "89",
+  "Source of Wealth": "real estate, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "3",
+  "Residence": "Newport Beach, California",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "7",
+  "Education": "Bachelor of Arts/Science, University of Washington"
+},{
+  "_id": {
+    "$oid": "61d4da58ab6f6f1e47dbc939"
+  },
+  "Name": [
+    "Hinduja brothers "
+  ],
+  "Age": "",
+  "Source of Wealth": "diversified",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "London, United Kingdom",
+  "Citizenship": "United Kingdom",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da58ab6f6f1e47dbc93a"
+  },
+  "Name": [
+    "Lakshmi Mittal "
+  ],
+  "Age": "71",
+  "Source of Wealth": "steel",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "London, United Kingdom",
+  "Citizenship": "India",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, St Xavier's College Calcutta"
+},{
+  "_id": {
+    "$oid": "61d4da59ab6f6f1e47dbc93b"
+  },
+  "Name": [
+    "Georg Schaeffler "
+  ],
+  "Age": "57",
+  "Source of Wealth": "auto parts",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Herzogenaurach, Germany",
+  "Citizenship": "Germany",
+  "Marital Status": "Divorced",
+  "Children": "4",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da59ab6f6f1e47dbc93c"
+  },
+  "Name": [
+    "Eric Yuan & family "
+  ],
+  "Age": "51",
+  "Source of Wealth": "Zoom Video Communications, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "",
+  "Residence": "Santa Clara, California",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Master of Engineering Management, China University of Mining and Technology; Bachelor of Engineering, Shandong Institute of Business and Technology"
+},{
+  "_id": {
+    "$oid": "61d4da59ab6f6f1e47dbc93d"
+  },
+  "Name": [
+    "Wang Jianlin "
+  ],
+  "Age": "67",
+  "Source of Wealth": "real estate, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Beijing, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "1",
+  "Education": "Liaoning University"
+},{
+  "_id": {
+    "$oid": "61d4da5aab6f6f1e47dbc93e"
+  },
+  "Name": [
+    "Kwong Siu-hing "
+  ],
+  "Age": "92",
+  "Source of Wealth": "real estate",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hong Kong, Hong Kong",
+  "Citizenship": "Hong Kong",
+  "Marital Status": "Widowed",
+  "Children": "4",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da5aab6f6f1e47dbc93f"
+  },
+  "Name": [
+    "Robin Li "
+  ],
+  "Age": "53",
+  "Source of Wealth": "internet search, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Beijing, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "4",
+  "Education": "Bachelor of Arts/Science, Peking University; Master of Arts, University at Buffalo"
+},{
+  "_id": {
+    "$oid": "61d4da5aab6f6f1e47dbc940"
+  },
+  "Name": [
+    "Pallonji Mistry "
+  ],
+  "Age": "92",
+  "Source of Wealth": "construction",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Mumbai, India",
+  "Citizenship": "Ireland",
+  "Marital Status": "Married",
+  "Children": "4",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da5bab6f6f1e47dbc941"
+  },
+  "Name": [
+    "Eduardo Saverin "
+  ],
+  "Age": "39",
+  "Source of Wealth": "Facebook, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Singapore, Singapore",
+  "Citizenship": "Brazil",
+  "Marital Status": "Married",
+  "Children": "1",
+  "Education": "Bachelor of Arts/Science, Harvard University"
+},{
+  "_id": {
+    "$oid": "61d4da5cab6f6f1e47dbc942"
+  },
+  "Name": [
+    "Roman Abramovich "
+  ],
+  "Age": "55",
+  "Source of Wealth": "steel, investments, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "7",
+  "Education": "Bachelor of Arts/Science, Moscow State Law Academy"
+},{
+  "_id": {
+    "$oid": "61d4da5cab6f6f1e47dbc943"
+  },
+  "Name": [
+    "David Tepper "
+  ],
+  "Age": "64",
+  "Source of Wealth": "hedge funds, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "2",
+  "Residence": "Palm Beach, Florida",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Master of Business Administration, David A. Tepper School of Business; Bachelor of Arts/Science, University of Pittsburgh"
+},{
+  "_id": {
+    "$oid": "61d4da5cab6f6f1e47dbc944"
+  },
+  "Name": [
+    "Gong Hongjia & family "
+  ],
+  "Age": "57",
+  "Source of Wealth": "video surveillance, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hong Kong, Hong Kong",
+  "Citizenship": "Hong Kong",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, Huazhong University of Science and Technology"
+},{
+  "_id": {
+    "$oid": "61d4da5dab6f6f1e47dbc945"
+  },
+  "Name": [
+    "Mike Cannon-Brookes "
+  ],
+  "Age": "42",
+  "Source of Wealth": "software, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Sydney, Australia",
+  "Citizenship": "Australia",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, University of New South Wales"
+},{
+  "_id": {
+    "$oid": "61d4da5dab6f6f1e47dbc946"
+  },
+  "Name": [
+    "John Menard, Jr. "
+  ],
+  "Age": "81",
+  "Source of Wealth": "home improvement stores, Self Made",
+  "Self-Made Score": "9",
+  "Philanthropy Score": "1",
+  "Residence": "Eau Claire, Wisconsin",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "6",
+  "Education": "Bachelor of Arts/Science, University of Wisconsin, Eau Claire"
+},{
+  "_id": {
+    "$oid": "61d4da5dab6f6f1e47dbc947"
+  },
+  "Name": [
+    "Seo Jung-jin "
+  ],
+  "Age": "64",
+  "Source of Wealth": "biotech, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Seoul, South Korea",
+  "Citizenship": "South Korea",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, Konkuk University; Master of Science, Konkuk University"
+},{
+  "_id": {
+    "$oid": "61d4da5eab6f6f1e47dbc948"
+  },
+  "Name": [
+    "Cheng Yixiao "
+  ],
+  "Age": "38",
+  "Source of Wealth": "video streaming app, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Beijing, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da5eab6f6f1e47dbc949"
+  },
+  "Name": [
+    "Liang Wengen "
+  ],
+  "Age": "65",
+  "Source of Wealth": "construction equipment, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Changsha, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "1",
+  "Education": "Bachelor of Arts/Science, Central South University"
+},{
+  "_id": {
+    "$oid": "61d4da5eab6f6f1e47dbc94a"
+  },
+  "Name": [
+    "Scott Farquhar "
+  ],
+  "Age": "42",
+  "Source of Wealth": "software, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Sydney, Australia",
+  "Citizenship": "Australia",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, University of New South Wales"
+},{
+  "_id": {
+    "$oid": "61d4da5fab6f6f1e47dbc94b"
+  },
+  "Name": [
+    "Finn Rausing "
+  ],
+  "Age": "67",
+  "Source of Wealth": "packaging",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "London, United Kingdom",
+  "Citizenship": "Sweden",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da5fab6f6f1e47dbc94c"
+  },
+  "Name": [
+    "Jorn Rausing "
+  ],
+  "Age": "62",
+  "Source of Wealth": "packaging",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Surrey, United Kingdom",
+  "Citizenship": "Sweden",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da5fab6f6f1e47dbc94d"
+  },
+  "Name": [
+    "Kirsten Rausing "
+  ],
+  "Age": "69",
+  "Source of Wealth": "packaging",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Newmarket, United Kingdom",
+  "Citizenship": "Sweden",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da60ab6f6f1e47dbc94e"
+  },
+  "Name": [
+    "Brian Chesky "
+  ],
+  "Age": "40",
+  "Source of Wealth": "Airbnb, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "1",
+  "Residence": "San Francisco, California",
+  "Citizenship": "United States",
+  "Marital Status": "Single",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Rhode Island School of Design"
+},{
+  "_id": {
+    "$oid": "61d4da60ab6f6f1e47dbc94f"
+  },
+  "Name": [
+    "Joseph Lau "
+  ],
+  "Age": "70",
+  "Source of Wealth": "real estate, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hong Kong, Hong Kong",
+  "Citizenship": "Hong Kong",
+  "Marital Status": "Divorced",
+  "Children": "6",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da60ab6f6f1e47dbc950"
+  },
+  "Name": [
+    "David Duffield "
+  ],
+  "Age": "81",
+  "Source of Wealth": "business software, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "2",
+  "Residence": "Incline Village, Nevada",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "10",
+  "Education": "Bachelor of Engineering, Cornell University; Master of Business Administration, Samuel Curtis Johnson Graduate School of Management"
+},{
+  "_id": {
+    "$oid": "61d4da61ab6f6f1e47dbc951"
+  },
+  "Name": [
+    "Charoen Sirivadhanabhakdi "
+  ],
+  "Age": "77",
+  "Source of Wealth": "alcohol, real estate, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Bangkok, Thailand",
+  "Citizenship": "Thailand",
+  "Marital Status": "Married",
+  "Children": "5",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da61ab6f6f1e47dbc952"
+  },
+  "Name": [
+    "Kim Jung-ju "
+  ],
+  "Age": "53",
+  "Source of Wealth": "online games, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Seoul, South Korea",
+  "Citizenship": "South Korea",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Doctorate, Korea Advanced Institute of Science and Technology; Master of Science, Korea Advanced Institute of Science and Technology; Bachelor of Arts/Science, Seoul National University"
+},{
+  "_id": {
+    "$oid": "61d4da61ab6f6f1e47dbc953"
+  },
+  "Name": [
+    "Robert & Philip Ng "
+  ],
+  "Age": "",
+  "Source of Wealth": "real estate",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Singapore, Singapore",
+  "Citizenship": "Singapore",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da62ab6f6f1e47dbc954"
+  },
+  "Name": [
+    "Zhang Bangxin "
+  ],
+  "Age": "42",
+  "Source of Wealth": "education, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Beijing, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "EMBA, China Europe International Business School"
+},{
+  "_id": {
+    "$oid": "61d4da62ab6f6f1e47dbc955"
+  },
+  "Name": [
+    "Anders Holch Povlsen "
+  ],
+  "Age": "49",
+  "Source of Wealth": "fashion retail",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Aarhus, Denmark",
+  "Citizenship": "Denmark",
+  "Marital Status": "Married",
+  "Children": "4",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da62ab6f6f1e47dbc956"
+  },
+  "Name": [
+    "Wang Wenyin "
+  ],
+  "Age": "54",
+  "Source of Wealth": "mining, copper products, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Shenzhen, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da63ab6f6f1e47dbc957"
+  },
+  "Name": [
+    "Wang Liping & family "
+  ],
+  "Age": "55",
+  "Source of Wealth": "hydraulic machinery, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Changzhou, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da63ab6f6f1e47dbc958"
+  },
+  "Name": [
+    "Tatyana Bakalchuk "
+  ],
+  "Age": "46",
+  "Source of Wealth": "ecommerce, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow region, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "4",
+  "Education": "Bachelor of Science, State University of Management"
+},{
+  "_id": {
+    "$oid": "61d4da63ab6f6f1e47dbc959"
+  },
+  "Name": [
+    "Michael Platt "
+  ],
+  "Age": "53",
+  "Source of Wealth": "hedge funds, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Geneva, Switzerland",
+  "Citizenship": "United Kingdom",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, London School of Economics; Bachelor of Arts/Science, London School of Economics"
+},{
+  "_id": {
+    "$oid": "61d4da64ab6f6f1e47dbc95a"
+  },
+  "Name": [
+    "Huang Shilin "
+  ],
+  "Age": "55",
+  "Source of Wealth": "batteries, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Ningde, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Bachelor of Technology, Hefei University of Technology"
+},{
+  "_id": {
+    "$oid": "61d4da64ab6f6f1e47dbc95b"
+  },
+  "Name": [
+    "Ricardo Salinas Pliego & family "
+  ],
+  "Age": "66",
+  "Source of Wealth": "retail, media",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Mexico City, Mexico",
+  "Citizenship": "Mexico",
+  "Marital Status": "Married",
+  "Children": "6",
+  "Education": "Master of Business Administration, A. B. Freeman School of Business; Bachelor of Arts/Science, Tecnológico de Monterrey"
+},{
+  "_id": {
+    "$oid": "61d4da64ab6f6f1e47dbc95c"
+  },
+  "Name": [
+    "Kumar Birla "
+  ],
+  "Age": "54",
+  "Source of Wealth": "commodities",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Mumbai, India",
+  "Citizenship": "India",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Master of Business Administration, London Business School; Bachelor of Arts/Science, University of Mumbai"
+},{
+  "_id": {
+    "$oid": "61d4da65ab6f6f1e47dbc95d"
+  },
+  "Name": [
+    "Dang Yanbao "
+  ],
+  "Age": "48",
+  "Source of Wealth": "coal, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Yinchuan, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Master of Business Administration, Peking University"
+},{
+  "_id": {
+    "$oid": "61d4da65ab6f6f1e47dbc95e"
+  },
+  "Name": [
+    "Cyrus Poonawalla "
+  ],
+  "Age": "80",
+  "Source of Wealth": "vaccines",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Pune, India",
+  "Citizenship": "India",
+  "Marital Status": "Widowed",
+  "Children": "1",
+  "Education": "Bachelor of Arts/Science, Pune University; Doctorate, Pune University"
+},{
+  "_id": {
+    "$oid": "61d4da65ab6f6f1e47dbc95f"
+  },
+  "Name": [
+    "Robert Kuok "
+  ],
+  "Age": "98",
+  "Source of Wealth": "palm oil, shipping, property, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hong Kong, Hong Kong",
+  "Citizenship": "Malaysia",
+  "Marital Status": "Married",
+  "Children": "8",
+  "Education": "Bachelor of Arts/Science, Raffles College"
+},{
+  "_id": {
+    "$oid": "61d4da66ab6f6f1e47dbc960"
+  },
+  "Name": [
+    "Hank & Doug Meijer "
+  ],
+  "Age": "",
+  "Source of Wealth": "supermarkets",
+  "Self-Made Score": "3",
+  "Philanthropy Score": "2",
+  "Residence": "Grand Rapids, Michigan",
+  "Citizenship": "United States",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, University of Michigan"
+},{
+  "_id": {
+    "$oid": "61d4da66ab6f6f1e47dbc961"
+  },
+  "Name": [
+    "Jack Dorsey "
+  ],
+  "Age": "45",
+  "Source of Wealth": "Twitter, Square, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "2",
+  "Residence": "San Francisco, California",
+  "Citizenship": "United States",
+  "Marital Status": "Single",
+  "Children": "",
+  "Education": "Drop Out, New York University"
+},{
+  "_id": {
+    "$oid": "61d4da66ab6f6f1e47dbc962"
+  },
+  "Name": [
+    "Lu Zhongfang "
+  ],
+  "Age": "79",
+  "Source of Wealth": "education, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Tonghua, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da67ab6f6f1e47dbc963"
+  },
+  "Name": [
+    "Ma Jianrong & family "
+  ],
+  "Age": "58",
+  "Source of Wealth": "textiles, apparel, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Ningbo, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da67ab6f6f1e47dbc964"
+  },
+  "Name": [
+    "Zhang Tao "
+  ],
+  "Age": "49",
+  "Source of Wealth": "e-commerce, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Beijing, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Master of Business Administration, The Wharton School of the University of Pennsylvania"
+},{
+  "_id": {
+    "$oid": "61d4da67ab6f6f1e47dbc965"
+  },
+  "Name": [
+    "Nathan Blecharczyk "
+  ],
+  "Age": "38",
+  "Source of Wealth": "Airbnb, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "",
+  "Residence": "San Francisco, California",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, Harvard University"
+},{
+  "_id": {
+    "$oid": "61d4da68ab6f6f1e47dbc966"
+  },
+  "Name": [
+    "John Doerr "
+  ],
+  "Age": "70",
+  "Source of Wealth": "venture capital, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "2",
+  "Residence": "Woodside, California",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Master of Business Administration, Harvard University; Bachelor of Arts/Science, Rice University; Master of Science, Rice University"
+},{
+  "_id": {
+    "$oid": "61d4da68ab6f6f1e47dbc967"
+  },
+  "Name": [
+    "Joe Gebbia "
+  ],
+  "Age": "40",
+  "Source of Wealth": "Airbnb, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "1",
+  "Residence": "San Francisco, California",
+  "Citizenship": "United States",
+  "Marital Status": "In Relationship",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Rhode Island School of Design"
+},{
+  "_id": {
+    "$oid": "61d4da68ab6f6f1e47dbc968"
+  },
+  "Name": [
+    "Forrest Li "
+  ],
+  "Age": "44",
+  "Source of Wealth": "gaming, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Singapore, Singapore",
+  "Citizenship": "Singapore",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Bachelor of Engineering, Shanghai Jiaotong University; Master of Business Administration, Stanford Graduate School of Business"
+},{
+  "_id": {
+    "$oid": "61d4da69ab6f6f1e47dbc969"
+  },
+  "Name": [
+    "Yu Renrong "
+  ],
+  "Age": "55",
+  "Source of Wealth": "semiconductors, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Ningbo, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Bachelor of Science in Engineering, Tsinghua University"
+},{
+  "_id": {
+    "$oid": "61d4da69ab6f6f1e47dbc96a"
+  },
+  "Name": [
+    "Liu Yonghao & family "
+  ],
+  "Age": "70",
+  "Source of Wealth": "agribusiness, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Chengdu, China",
+  "Citizenship": "China",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da69ab6f6f1e47dbc96b"
+  },
+  "Name": [
+    "Gordon Moore "
+  ],
+  "Age": "93",
+  "Source of Wealth": "Intel, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "5",
+  "Residence": "Woodside, California",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Doctorate, California Institute of Technology; Bachelor of Arts/Science, University of California, Berkeley"
+},{
+  "_id": {
+    "$oid": "61d4da6aab6f6f1e47dbc96c"
+  },
+  "Name": [
+    "Jeff Yass "
+  ],
+  "Age": "63",
+  "Source of Wealth": "trading, investments, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "",
+  "Residence": "Haverford, Pennsylvania",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "4",
+  "Education": "Bachelor of Science, SUNY Binghamton"
+},{
+  "_id": {
+    "$oid": "61d4da6aab6f6f1e47dbc96d"
+  },
+  "Name": [
+    "Bobby Murphy "
+  ],
+  "Age": "33",
+  "Source of Wealth": "Snapchat, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "1",
+  "Residence": "Venice, California",
+  "Citizenship": "United States",
+  "Marital Status": "Single",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Stanford University"
+},{
+  "_id": {
+    "$oid": "61d4da6aab6f6f1e47dbc96e"
+  },
+  "Name": [
+    "Patrick Drahi "
+  ],
+  "Age": "58",
+  "Source of Wealth": "telecom, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Zermatt, Switzerland",
+  "Citizenship": "France",
+  "Marital Status": "Married",
+  "Children": "4",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da6bab6f6f1e47dbc96f"
+  },
+  "Name": [
+    "Jensen Huang "
+  ],
+  "Age": "58",
+  "Source of Wealth": "semiconductors, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "1",
+  "Residence": "Los Altos, California",
+  "Citizenship": "United States",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Bachelor of Science in Engineering, Oregon State University; Master of Science in Engineering, Stanford University"
+},{
+  "_id": {
+    "$oid": "61d4da6bab6f6f1e47dbc970"
+  },
+  "Name": [
+    "Alexander Otto "
+  ],
+  "Age": "54",
+  "Source of Wealth": "real estate",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hamburg, Germany",
+  "Citizenship": "Germany",
+  "Marital Status": "Married",
+  "Children": "",
+  "Education": "Master of Business Administration, Harvard Business School; Bachelor of Arts/Science, Harvard College"
+},{
+  "_id": {
+    "$oid": "61d4da6bab6f6f1e47dbc971"
+  },
+  "Name": [
+    "Cen Junda "
+  ],
+  "Age": "57",
+  "Source of Wealth": "pharmaceuticals, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Lianyungang, China",
+  "Citizenship": "China",
+  "Marital Status": "",
+  "Children": "",
+  "Education": "Doctorate, Zhejiang University"
+},{
+  "_id": {
+    "$oid": "61d4da6cab6f6f1e47dbc972"
+  },
+  "Name": [
+    "Joseph Tsai "
+  ],
+  "Age": "57",
+  "Source of Wealth": "e-commerce, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Hong Kong, Hong Kong",
+  "Citizenship": "Canada",
+  "Marital Status": "Married",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, Yale University; Doctor of Jurisprudence, Yale University"
+},{
+  "_id": {
+    "$oid": "61d4da6cab6f6f1e47dbc973"
+  },
+  "Name": [
+    "Aliko Dangote "
+  ],
+  "Age": "64",
+  "Source of Wealth": "cement, sugar, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Lagos, Nigeria",
+  "Citizenship": "Nigeria",
+  "Marital Status": "Divorced",
+  "Children": "3",
+  "Education": "Bachelor of Arts/Science, Al-Azhar University"
+},{
+  "_id": {
+    "$oid": "61d4da6cab6f6f1e47dbc974"
+  },
+  "Name": [
+    "Marcel Herrmann Telles "
+  ],
+  "Age": "72",
+  "Source of Wealth": "beer, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Sao Paulo, Brazil",
+  "Citizenship": "Brazil",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, Universidade Federal do Rio de Janeiro"
+},{
+  "_id": {
+    "$oid": "61d4da6dab6f6f1e47dbc975"
+  },
+  "Name": [
+    "Mikhail Prokhorov "
+  ],
+  "Age": "56",
+  "Source of Wealth": "investments, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Single",
+  "Children": "",
+  "Education": "Bachelor of Arts/Science, Moscow Institute of Finance"
+},{
+  "_id": {
+    "$oid": "61d4da6dab6f6f1e47dbc976"
+  },
+  "Name": [
+    "Jorge Moll Filho & family "
+  ],
+  "Age": "77",
+  "Source of Wealth": "hospitals, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Rio de Janeiro, Brazil",
+  "Citizenship": "Brazil",
+  "Marital Status": "Married",
+  "Children": "5",
+  "Education": "Masters of Public Health, Universidade Federal do Rio de Janeiro"
+},{
+  "_id": {
+    "$oid": "61d4da6dab6f6f1e47dbc977"
+  },
+  "Name": [
+    "Viktor Rashnikov "
+  ],
+  "Age": "73",
+  "Source of Wealth": "steel, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Magnitogorsk, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Science in Engineering, Magnitogorsk Mining and Metallurgical Institute"
+},{
+  "_id": {
+    "$oid": "61d4da6eab6f6f1e47dbc978"
+  },
+  "Name": [
+    "Harry Triguboff "
+  ],
+  "Age": "88",
+  "Source of Wealth": "real estate, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Sydney, Australia",
+  "Citizenship": "Australia",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Bachelor of Arts/Science, University of Leeds"
+},{
+  "_id": {
+    "$oid": "61d4da6eab6f6f1e47dbc979"
+  },
+  "Name": [
+    "Leonid Fedun & family "
+  ],
+  "Age": "65",
+  "Source of Wealth": "oil, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Moscow, Russia",
+  "Citizenship": "Russia",
+  "Marital Status": "Married",
+  "Children": "2",
+  "Education": "Master of Science, Military Academy F.E.Dzerzhinsky"
+},{
+  "_id": {
+    "$oid": "61d4da6eab6f6f1e47dbc97a"
+  },
+  "Name": [
+    "Eyal Ofer "
+  ],
+  "Age": "71",
+  "Source of Wealth": "real estate, shipping",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Monte Carlo, Monaco",
+  "Citizenship": "Israel",
+  "Marital Status": "Married",
+  "Children": "4",
+  "Education": ""
+},{
+  "_id": {
+    "$oid": "61d4da6fab6f6f1e47dbc97b"
+  },
+  "Name": [
+    "Evan Spiegel "
+  ],
+  "Age": "31",
+  "Source of Wealth": "Snapchat, Self Made",
+  "Self-Made Score": "8",
+  "Philanthropy Score": "1",
+  "Residence": "Los Angeles, California",
+  "Citizenship": "",
+  "Marital Status": "",
+  "Children": "2",
+  "Education": "Bachelor of Science, Stanford University"
+},{
+  "_id": {
+    "$oid": "61d4da6fab6f6f1e47dbc97c"
+  },
+  "Name": [
+    "Luis Carlos Sarmiento "
+  ],
+  "Age": "88",
+  "Source of Wealth": "banking, Self Made",
+  "Self-Made Score": "",
+  "Philanthropy Score": "",
+  "Residence": "Bogota, Colombia",
+  "Citizenship": "Colombia",
+  "Marital Status": "Married",
+  "Children": "5",
+  "Education": "Bachelor of Arts/Science, National University of Colombia"
+}]
